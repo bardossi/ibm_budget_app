@@ -21,3 +21,20 @@ label {
   float: right;
 }
 
+.plusClass {
+  background-color: green;
+  color: white;
+  border-radius: 30px;
+}
+
+.minusClass {
+  background-color: red;
+  color: white;
+  border-radius: 30px;
+}
+
+.alert-success2 {
+  background-color: green;
+  color: white;
+  border-radius: 30px;
+}
